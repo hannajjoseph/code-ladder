@@ -1,5 +1,20 @@
 # CodeLadder 🪜
 
+# CodeLadder
+
+An interactive programming-learning platform that helps beginners understand code step by step.
+
+### 🚀 Live Demo
+
+[**Open CodeLadder Application**](https://profound-cranachan-ab9cb7.netlify.app)
+
+### ✨ Features
+- Learn programming through step-by-step challenges
+- Convert plain-English problems into flowcharts, pseudocode, and Python
+- Practice Python in the browser
+- Identify and understand common programming mistakes
+
+
 ### Find the missing concept. Climb toward confident coding.
 
 CodeLadder is an interactive coding-learning platform designed to help beginners understand **why they make programming mistakes**, rather than simply showing them the correct answer.
